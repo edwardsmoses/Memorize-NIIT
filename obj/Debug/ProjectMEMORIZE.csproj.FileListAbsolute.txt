@@ -1,0 +1,34 @@
+F:\My Projects in C#\ProjectMEMORIZE\ProjectMEMORIZE\bin\Debug\ProjectMEMORIZE.exe
+F:\My Projects in C#\ProjectMEMORIZE\ProjectMEMORIZE\bin\Debug\ProjectMEMORIZE.pdb
+F:\My Projects in C#\ProjectMEMORIZE\ProjectMEMORIZE\obj\Debug\ProjectMEMORIZE.csprojResolveAssemblyReference.cache
+F:\My Projects in C#\ProjectMEMORIZE\ProjectMEMORIZE\obj\Debug\ProjectMEMORIZE.frmMemorize.resources
+F:\My Projects in C#\ProjectMEMORIZE\ProjectMEMORIZE\obj\Debug\ProjectMEMORIZE.Properties.Resources.resources
+F:\My Projects in C#\ProjectMEMORIZE\ProjectMEMORIZE\obj\Debug\ProjectMEMORIZE.csproj.GenerateResource.Cache
+F:\My Projects in C#\ProjectMEMORIZE\ProjectMEMORIZE\obj\Debug\ProjectMEMORIZE.exe
+F:\My Projects in C#\ProjectMEMORIZE\ProjectMEMORIZE\obj\Debug\ProjectMEMORIZE.pdb
+F:\My Projects in C#\ProjectMEMORIZE\ProjectMEMORIZE\obj\Debug\ProjectMEMORIZE.Memory.resources
+F:\My Projects in C#\ProjectMEMORIZE\ProjectMEMORIZE\obj\Debug\ProjectMEMORIZE.HighScore.resources
+F:\My Projects in C#\ProjectMEMORIZE\ProjectMEMORIZE\bin\Debug\ProjectMEMORIZE.exe.manifest
+F:\My Projects in C#\ProjectMEMORIZE\ProjectMEMORIZE\bin\Debug\ProjectMEMORIZE.application
+F:\My Projects in C#\ProjectMEMORIZE\ProjectMEMORIZE\obj\Debug\ProjectMEMORIZE.exe.manifest
+F:\My Projects in C#\ProjectMEMORIZE\ProjectMEMORIZE\obj\Debug\ProjectMEMORIZE.application
+C:\Users\PETER\Desktop\ProjectMEMORIZE\ProjectMEMORIZE\obj\Debug\ProjectMEMORIZE.exe
+C:\Users\PETER\Desktop\ProjectMEMORIZE\ProjectMEMORIZE\obj\Debug\ProjectMEMORIZE.pdb
+C:\Users\PETER\Desktop\ProjectMEMORIZE\ProjectMEMORIZE\bin\Debug\ProjectMEMORIZE.exe.manifest
+C:\Users\PETER\Desktop\ProjectMEMORIZE\ProjectMEMORIZE\bin\Debug\ProjectMEMORIZE.application
+C:\Users\PETER\Desktop\ProjectMEMORIZE\ProjectMEMORIZE\bin\Debug\ProjectMEMORIZE.exe
+C:\Users\PETER\Desktop\ProjectMEMORIZE\ProjectMEMORIZE\bin\Debug\ProjectMEMORIZE.pdb
+C:\Users\PETER\Desktop\ProjectMEMORIZE\ProjectMEMORIZE\obj\Debug\ProjectMEMORIZE.csprojResolveAssemblyReference.cache
+C:\Users\PETER\Desktop\ProjectMEMORIZE\ProjectMEMORIZE\obj\Debug\ProjectMEMORIZE.frmMemorize.resources
+C:\Users\PETER\Desktop\ProjectMEMORIZE\ProjectMEMORIZE\obj\Debug\ProjectMEMORIZE.HighScore.resources
+C:\Users\PETER\Desktop\ProjectMEMORIZE\ProjectMEMORIZE\obj\Debug\ProjectMEMORIZE.Memory.resources
+C:\Users\PETER\Desktop\ProjectMEMORIZE\ProjectMEMORIZE\obj\Debug\ProjectMEMORIZE.Properties.Resources.resources
+C:\Users\PETER\Desktop\ProjectMEMORIZE\ProjectMEMORIZE\obj\Debug\ProjectMEMORIZE.csproj.GenerateResource.Cache
+C:\Users\PETER\Desktop\ProjectMEMORIZE\ProjectMEMORIZE\obj\Debug\ProjectMEMORIZE.exe.manifest
+C:\Users\PETER\Desktop\ProjectMEMORIZE\ProjectMEMORIZE\obj\Debug\ProjectMEMORIZE.application
+C:\Users\swit pain\Documents\ProjectMEMORIZE\ProjectMEMORIZE\obj\Debug\ProjectMEMORIZE.exe
+C:\Users\swit pain\Documents\ProjectMEMORIZE\ProjectMEMORIZE\obj\Debug\ProjectMEMORIZE.pdb
+C:\Users\swit pain\Documents\projects\ProjectMEMORIZE\ProjectMEMORIZE\obj\Debug\ProjectMEMORIZE.exe
+C:\Users\swit pain\Documents\projects\ProjectMEMORIZE\ProjectMEMORIZE\obj\Debug\ProjectMEMORIZE.pdb
+C:\Users\swit pain\Documents\Visual Studio 2012\Projects\ProjectMEMORIZE\ProjectMEMORIZE\obj\Debug\ProjectMEMORIZE.exe
+C:\Users\swit pain\Documents\Visual Studio 2012\Projects\ProjectMEMORIZE\ProjectMEMORIZE\obj\Debug\ProjectMEMORIZE.pdb
